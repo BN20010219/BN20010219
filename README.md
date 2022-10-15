@@ -1,0 +1,7 @@
+- 👋 Hi, I’m @BN20010219
+- 🌱 I’m currently learning PYTHON
+
+<!---
+BN20010219/BN20010219 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+You can click the Preview link to take a look at your changes.
+--->
